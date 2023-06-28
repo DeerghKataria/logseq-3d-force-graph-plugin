@@ -1,0 +1,11 @@
+{
+  "name": "3d-graph-view",
+  "version": "1.0.0",
+  "dependencies": {
+    "three": "^128.0.0",
+    "logseq-plugin-api": "^0.1.0"
+  },
+  "logseq": {
+    "id": "_m91qqt5fz"
+  }
+}
